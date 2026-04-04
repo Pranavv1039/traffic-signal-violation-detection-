@@ -1,0 +1,14 @@
+﻿venv/
+__pycache__/
+*.pyc
+.claude/
+debug_crops/
+runs/
+helmet-lincense-plate-detection-24/
+violations/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+yolov8n.pt
+yolo26n.pt
