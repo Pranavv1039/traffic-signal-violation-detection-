@@ -1,9 +1,4 @@
-ultralytics>=8.0.0
-fast-alpr[onnxruntime]
-onnxruntime
-opencv-python
-numpy
+﻿streamlit
 pandas
-streamlit
-supervision
+plotly
 Pillow
