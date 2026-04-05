@@ -1,4 +1,4 @@
-import streamlit as st
+ï»¿import streamlit as st
 import pandas as pd
 import os
 import re
@@ -75,7 +75,7 @@ with st.sidebar:
 st.markdown('''
 <div style="background:linear-gradient(135deg,#0f0f1a,#1a1a3e);padding:30px;border-radius:16px;text-align:center;border:1px solid #e94560;margin-bottom:25px">
 <h1 style="color:white;font-size:2.4em;margin:0;letter-spacing:2px">?? TRAFFIC VIOLATION DETECTION SYSTEM</h1>
-<p style="color:#888;margin:10px 0 0 0;font-size:1.05em">AI-Powered Real-Time Enforcement Dashboard &nbsp;•&nbsp; YOLOv8 + EasyOCR</p>
+<p style="color:#888;margin:10px 0 0 0;font-size:1.05em">AI-Powered Real-Time Enforcement Dashboard &nbsp;ï¿½&nbsp; YOLOv8 + EasyOCR</p>
 </div>
 ''', unsafe_allow_html=True)
 
@@ -209,4 +209,4 @@ with c2:
 with c3:
     st.download_button('?? Helmet Only',df[df.violation_type=='helmetless_riding'].to_csv(index=False),'helmet.csv','text/csv',use_container_width=True)
 
-st.markdown('<br><div style="text-align:center;color:#444;font-size:0.85em">?? Traffic Violation Detection System &nbsp;•&nbsp; Pranav Gedela &nbsp;•&nbsp; GITAM University 2025-26</div>', unsafe_allow_html=True)
+st.markdown('<br><div style="text-align:center;color:#444;font-size:0.85em">?? Traffic Violation Detection System &nbsp;ï¿½&nbsp; Pranav Gedela &nbsp;ï¿½&nbsp; GITAM University 2025-26</div>', unsafe_allow_html=True)
