@@ -68,3 +68,14 @@ timestamp,violation_type,plate_number,confidence,screenshot_path
 20260404_134841_828643,red_light_jump,NN 773,0.0,violations/red_light_jump_20260404_134841_828643.jpg
 20260404_135156_258904,red_light_jump,NB 6433,0.0,violations/red_light_jump_20260404_135156_258904.jpg
 20260404_135201_508315,red_light_jump,NN 773,0.0,violations/red_light_jump_20260404_135201_508315.jpg
+20260405_113405_980669,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_113405_980669.jpg
+20260405_124213_791495,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_124213_791495.jpg
+20260405_125653_757596,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_125653_757596.jpg
+20260405_130021_788618,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_130021_788618.jpg
+20260405_130944_018207,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_130944_018207.jpg
+20260405_162423_771437,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_162423_771437.jpg
+20260405_163144_378986,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_163144_378986.jpg
+20260405_163243_082670,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_163243_082670.jpg
+20260405_163344_983049,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_163344_983049.jpg
+20260405_170022_641263,red_light_jump,YB 6435,0.0,violations/red_light_jump_20260405_170022_641263.jpg
+20260405_170024_113289,red_light_jump,NN 773,0.0,violations/red_light_jump_20260405_170024_113289.jpg

@@ -66,3 +66,5 @@ timestamp,violation_type,plate_number,confidence,screenshot_path
 20260404_195910_515472,helmetless_riding,30-N1 9500 MESN,0.0,violations/helmet/helmetless_riding_20260404_195910_515472.jpg
 20260404_200049_381012,helmetless_riding,30-N1 9500,0.0,violations/helmet/helmetless_riding_20260404_200049_381012.jpg
 20260404_200053_239806,helmetless_riding,KL 10AZ 8471,0.0,violations/helmet/helmetless_riding_20260404_200053_239806.jpg
+20260405_113122_731256,helmetless_riding,30-N1 9500,0.0,violations/helmet/helmetless_riding_20260405_113122_731256.jpg
+20260405_113144_999340,helmetless_riding,KL 10AZ 8471,0.0,violations/helmet/helmetless_riding_20260405_113144_999340.jpg
